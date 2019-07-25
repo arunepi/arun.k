@@ -31,6 +31,118 @@
                }
             ]
          }
+      ],
+ "1crore":[  
+         {  
+            "Type":[  
+               {  
+                  "smoker":[  
+                     {  
+                        "male":[  
+                           {  
+                              "age": 18,
+                               "value":1200
+                           },
+                             {  
+                              "age": 19,
+                               "value":1400
+                           }
+                        ],
+                         "female":[  
+                           {  
+                              "age": 18,
+                               "value":950
+                           },
+                             {  
+                              "age": 19,
+                               "value":150
+                           }
+                        ]
+                     }
+                  ],
+                  "non-smoker":[  
+                     {  
+                        "male":[  
+                           {  
+                              "age": 18,
+                               "value":350
+                           },
+                             {  
+                              "age": 19,
+                               "value":800
+                           }
+                        ],
+                         "female":[  
+                           {  
+                              "age": 18,
+                               "value":100
+                           },
+                             {  
+                              "age": 19,
+                               "value":1400
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "2crore":[  
+         {  
+            "Type":[  
+               {  
+                  "smoker":[  
+                     {  
+                        "male":[  
+                           {  
+                              "age": 18,
+                               "value":1200
+                           },
+                             {  
+                              "age": 19,
+                               "value":1400
+                           }
+                        ],
+                         "female":[  
+                           {  
+                              "age": 18,
+                               "value":950
+                           },
+                             {  
+                              "age": 19,
+                               "value":150
+                           }
+                        ]
+                     }
+                  ],
+                  "non-smoker":[  
+                     {  
+                        "male":[  
+                           {  
+                              "age": 18,
+                               "value":350
+                           },
+                             {  
+                              "age": 19,
+                               "value":800
+                           }
+                        ],
+                         "female":[  
+                           {  
+                              "age": 18,
+                               "value":100
+                           },
+                             {  
+                              "age": 19,
+                               "value":1400
+                           }
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
       ]
    }
 }
